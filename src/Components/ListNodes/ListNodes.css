@@ -1,0 +1,23 @@
+.listNodes{
+    width: 100%;
+}
+.listNodes h2{
+  margin-left: 40px;
+}
+.listNodes__block{
+    width: 90%;
+    margin: 0 auto;
+    border: 1px solid black;
+    height: 40px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.listNodes__marker{
+  width: 90%;
+  margin: 0 auto;
+  border: 1px solid red;
+  height: 40px;
+  padding: 10px;
+  margin-top: 10px;
+
+}

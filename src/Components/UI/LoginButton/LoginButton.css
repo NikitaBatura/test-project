@@ -1,0 +1,6 @@
+.header__loginButton button {
+    font-size: 17px;
+    border-radius: 15px;
+    background-color: white;
+    outline: none;
+}

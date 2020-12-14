@@ -1,0 +1,19 @@
+.dropZone {
+    width: 70%;
+    outline: none;
+    margin-top: 5px;
+}
+.dropZone__container{
+    display: flex;
+    justify-content: center;
+    margin-left: 50px;
+    align-items: center;
+    background-color: #3d405b;
+    outline: 'none';
+    height: 110px;
+    border-style: dashed;
+}
+.dropZone__container p {
+margin: 0px;
+font-size: 20px;
+}

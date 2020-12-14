@@ -1,0 +1,10 @@
+main{
+    width: 100%;
+}
+.imageArea__image{
+    width: 40vw;
+    height: 700px;
+    display: block;
+    margin: 20px auto;
+}
+

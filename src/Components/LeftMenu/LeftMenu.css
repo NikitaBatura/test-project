@@ -1,0 +1,33 @@
+.leftMenu {
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    background-color: #264653;
+    width: 20%;
+    align-items: center;
+}
+.leftMenu__areaImage{
+    margin-top: 15px;
+    position: relative;
+    display: flex;
+}
+.leftMenu__areaImage:last-child{
+    margin-bottom: 15px;
+}
+.leftMenu_image img{
+    width: 150px;
+    height: 200px;
+    cursor: pointer;
+}
+.leftMenu__numberImage{
+    color: whitesmoke;
+    margin-right: 5px;
+}
+.leftMenu_image {
+position: relative;
+}
+.leftMenu_image__icon{
+    position: absolute;
+    left: 80%;
+    top: 5px;
+}
